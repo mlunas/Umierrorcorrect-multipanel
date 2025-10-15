@@ -48,4 +48,3 @@ This modified pipeline is built upon Umierrorcorrect v0.29 and it shares all fun
 run_umierrorcorrect.py -r1 read1.fastq.gz -r2 read2.fastq.gz -ul umi_length -sl spacer_length -r reference_fasta_file.fasta -o output_directory -b panel1.bed -b2 panel2.bed
 ```
 
-Since the umierrorcorrect pipeline is using `bwa` for mapping of reads, a bwa-indexed reference genome is needed. Index the reference genome with the command `bwa index -a bwtsw reference.fa`.
