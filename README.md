@@ -12,17 +12,7 @@ Osterlund T., Filges S., Johansson G., Stahlberg A. UMIErrorCorrect and UMIAnaly
 
 Installation
 ------------
-To install this modified pipeline from source, open a terminal and type the following:
-
-```
-pip install umierrorcorrect
-```
-    
-After installation, try to run the pipeline:
-
-```
-run_umierrorcorrect.py -h
-```
+WIP
 Dependencies
 ------------
 
