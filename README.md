@@ -12,7 +12,8 @@ Osterlund T., Filges S., Johansson G., Stahlberg A. UMIErrorCorrect and UMIAnaly
 
 Installation
 ------------
-WIP
+**WIP**
+
 Dependencies
 ------------
 
